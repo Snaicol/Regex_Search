@@ -1,7 +1,7 @@
 # Regex Search
 
 With this file you can search through multiple file in the same folder for a key 
-word or a key sentence. The supported file up to now are ".txt" and ".xml".
+word or a key sentence. The supported file up to now are ".txt", ".xml" an ".pdf".
 
 ## Getting Started
 
